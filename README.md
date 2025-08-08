@@ -1,5 +1,7 @@
- Hi there 👋
-llk
+##Quem sou eu
+Sou Matheus Coden, aluno do curso Técnico em Informática para Internet, graduando em Ciências Contábeis.
+
+ 
 <!--
 **thorneti/thorneti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
