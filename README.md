@@ -1,6 +1,7 @@
-## Quem sou eu
+## Quem sou
 
-Sou Matheus Coden, aluno do curso Técnico em Informática para Internet, graduando em Ciências Contábeis.
+Sou Matheus, aluno do curso Técnico em Informática para Internet, graduando em Ciências Contábeis.
+
 
  
 <!--
