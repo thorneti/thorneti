@@ -2,6 +2,7 @@
 
 Sou Matheus, aluno do curso Técnico em Informática para Internet, graduando em Ciências Contábeis.
 
+Interesses por trilhas, rodeios, natureza, viagens, e também em conhecer pessoas e assuntos diversos.
 
  
 <!--
